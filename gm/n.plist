@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://hj004ban.gitee.io/yingyongfenfa/n2/new2.ipa</string>
+					<string>https://lbjjiang.github.io/dev/gm/bsyl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://hj004ban.gitee.io/yingyongfenfa/n2/2.png</string>
+					<string>https://lbjjiang.github.io/dev/gm/2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://hj004ban.gitee.io/yingyongfenfa/n2/1.png</string>
+					<string>https://lbjjiang.github.io/dev/gm/1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hzrx.dbkk</string>
+				<string>com.okgame.bsyl</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新版本(v1.0.1)</string>
+				<string>版本(v1.0.1)</string>
 			</dict>
 		</dict>
 	</array>
